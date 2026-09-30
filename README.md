@@ -2,6 +2,8 @@
 
 An exploratory longitudinal analysis investigating the relationship between sleep characteristics and post-wakeup heart rate variability (HRV) using wearable sensor data and self-reported sleep diaries.
 
+Python · pandas · SciPy · statsmodels · Mixed-effects modeling · Wearable data
+
 ## Research Question
 
 Is sleep quality associated with post-wakeup heart rate variability?
@@ -50,7 +52,7 @@ To improve measurement reliability:
 
 ## Results
 
-Estimated total sleep time showed no meaningful monotonic association with post-wakeup RMSSD:
+Estimated total sleep time showed no evidence of a monotonic association with post-wakeup RMSSD:
 
 - Spearman rho = 0.006
 - p = 0.897
